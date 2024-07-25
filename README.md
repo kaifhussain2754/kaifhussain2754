@@ -17,7 +17,7 @@ I'm [Kaif Hussain](https://github.com/kaifhussain2754), a passionate React devel
 
 ## 📫 How to Reach Me
 - **GitHub:** [kaifhussain2754](https://github.com/kaifhussain2754)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/kaif-hussain-739361236/)
+- **LinkedIn:** [Kaif Hussain](https://www.linkedin.com/in/kaif-hussain-739361236/)
 
 ## 😄 Pronouns
 - He/Him
